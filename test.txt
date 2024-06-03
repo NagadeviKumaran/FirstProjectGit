@@ -1,2 +1,2 @@
 this is test git file for my new project
-this is in new branch
+this is in main branch
